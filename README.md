@@ -1,4 +1,4 @@
-# Movies Land --Frontend Engineer Challenge - Lifebit Biotech Ltd --
+# Movies Land
 
 This project is a movies app created using ReactJS. The state is managed using plain Redux, and the styling is made using the framework Tailwind.
 
