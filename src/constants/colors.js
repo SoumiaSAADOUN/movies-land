@@ -1,0 +1,8 @@
+export const YELLOW='#ff9f1c'
+export const RED='#ff4040'
+export const GREEN='#2ec4b6'
+export const GREY='#1b2329'
+export const DARK_GREY='#0a1014'
+export const MID_GREY='#353f4c'
+export const LIGHT_GREY='#7a8c99'
+export const WHITE='#fff'
