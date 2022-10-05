@@ -8,7 +8,7 @@ const MovieCard = (props) => {
         alt={props.movie.Title}
         className="w-[180px] h-[240px] rounded"
       />
-      <div className={`absolute top-0 flex flex-col w-full h-full block ${props.movie.Poster!=="N/A" && 'md:hidden'} p-4 rounded bg-GREY/80 group-hover:block`}>
+      <div className={`absolute top-0 flex flex-col w-full h-full block ${props.movie.Poster!=="N/A" && 'hidden'} p-4 rounded bg-GREY/80 group-hover:block`}>
         <img
           src={`/assets/Icons/icon-heart-white.svg`}
           className="absolute top-2 right-2 h-[20px] w-[20px]"
