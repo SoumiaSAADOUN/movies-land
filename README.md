@@ -17,3 +17,8 @@ This roject is created with:
 ### Notes:
 
 * For movies that don't have a poster, I displayed the title and like button (the infos that are displayed on hover) in the result of the search list. In the movie detail, I used the logo.
+
+### Deployed to the following URLs:
+* movies-land-git-soumia-soumiasaadoun.vercel.app
+* movies-land-soumiasaadoun.vercel.app
+* movies-land-one.vercel.app
