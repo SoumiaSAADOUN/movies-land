@@ -1,5 +1,5 @@
 import axios from "axios";
-export const API_ROOT ='http://www.omdbapi.com/';
+export const API_ROOT ='https://www.omdbapi.com/';
 
 const omdbapi = axios.create({
     baseURL: API_ROOT,
